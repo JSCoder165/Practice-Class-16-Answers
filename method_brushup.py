@@ -1,3 +1,5 @@
+# done without max() intentionally
+
 import random
 def largest(num1, num2, num3):
     if(num1>num2 and num1>num3):
